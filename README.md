@@ -1,6 +1,6 @@
 
 # Hello, I'm Miguel, an IT and Cybersecurity Professional
--------------------------------------------------------------
+
 <a href="https://linkedin.com/in/miguelcamarena27"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a current cybersecurity student on track to graduate from Waldorf University in 2025 with a Bachelor's Degree in Cybersecurity and Information Technology. I am inquisitive, critical, and strive to learn and grow every day. I obtained a Google Cybersecurity Professional Certificate from Coursera in Februrary 2024 and later a CompTIA Security+ certification March of 2024.
