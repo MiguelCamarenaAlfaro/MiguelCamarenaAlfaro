@@ -9,37 +9,15 @@ I am a current cybersecurity student on track to graduate from Waldorf Universit
 
 My journey and education in customer care, information technology, and cybersecurity has instilled in me a passion to transition into a role in the cybersecurity lanscape. I am primarily seeking a role as a Security Operations Center Analyst Level 1. 
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Projects
 
-| Skill                                         | Associated Project         | Technology Used |
-|-----------------------------------------------|----------------------------|---------------- |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
 
 ## Tools
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Active%20Directory-0066CC?style=for-the-badge&logo=active-directory&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-
-</div>
-
-### SIEM
-<div>
-
-</div>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-OsTicket-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
 ## Certifications
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -47,5 +25,4 @@ My journey and education in customer care, information technology, and cybersecu
 
 </div>
 
-## Projects
 
