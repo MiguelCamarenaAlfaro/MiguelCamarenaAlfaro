@@ -9,15 +9,17 @@ I am a current cybersecurity student on track to graduate from Waldorf Universit
 
 My journey and education in customer care, information technology, and cybersecurity has instilled in me a passion to transition into a role in the cybersecurity lanscape. I am primarily seeking a role as a Security Operations Center Analyst Level 1. 
 
-## Projects
 
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-## Tools
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Active%20Directory-0066CC?style=for-the-badge&logo=active-directory&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-OsTicket-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
 
 ## Certifications
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
