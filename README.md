@@ -14,7 +14,7 @@ My journey and education in customer care, information technology, and cybersecu
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MiguelCamarenaAlfaro/configure-AD)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols] (Under Construction)
 
 
 ## Certifications
