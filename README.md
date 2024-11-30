@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/miguelcamarena27"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## DOWNLOAD MY RESUME
-[Download My Resume](https://github.com/MiguelCamarenaAlfaro/my-resume/blob/main/Miguel.Camarena.Resume.pdf)
+(https://github.com/MiguelCamarenaAlfaro/my-resume/blob/main/Miguel.Camarena.Resume.pdf)
 
 
 ## INTRODUCTION
