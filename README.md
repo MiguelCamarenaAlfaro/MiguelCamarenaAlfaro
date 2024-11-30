@@ -24,7 +24,6 @@ With a strong foundation in customer care, IT, and cybersecurity, I am passionat
 
 
 ## Certifications
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://i.imgur.com/jceht7k.png"/>
 
 </div>
