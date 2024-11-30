@@ -3,7 +3,11 @@
 
 <a href="https://linkedin.com/in/miguelcamarena27"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a current cybersecurity student on track to graduate from Waldorf University in 2025 with a Bachelor's Degree in Cybersecurity and Information Technology. I am inquisitive, critical, and strive to learn and grow every day. I obtained a Google Cybersecurity Professional Certificate from Coursera in Februrary 2024 and later a CompTIA Security+ certification March of 2024.
+I am currently a cybersecurity student at Waldorf University, on track to graduate in 2025 with a Bachelor's Degree in Cybersecurity and Information Technology. Over the past few years, I’ve gained hands-on experience in IT and cybersecurity through both academic projects and professional roles. Notably, I implemented an Active Directory environment in Microsoft Azure, configuring virtual machines, automating account provisioning with PowerShell scripts, and optimizing DNS configurations to ensure seamless communication across systems.
+
+Professionally, I’ve worked as an IT Support Technician at Log(N) Pacific, where I built and maintained secure infrastructures, and as a Help Desk Analyst at Verizon Wireless, where I honed my troubleshooting skills and provided advanced support for complex IT systems. My certifications, including the Google Cybersecurity Professional Certificate and CompTIA Security+, further reflect my commitment to excellence in this field.
+
+I thrive on solving challenges, continuously learning, and applying my skills to make meaningful contributions in cybersecurity. I’m excited to bring my technical expertise, problem-solving abilities, and dedication to advancing digital security to any role I take on.
 
 ## OBJECTIVE
 
