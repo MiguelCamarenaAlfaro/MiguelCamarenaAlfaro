@@ -16,7 +16,7 @@ I thrive on solving challenges, continuously learning, and applying my skills to
 With a strong foundation in customer care, IT, and cybersecurity, I am passionate about transitioning into a role in the cybersecurity field. My hands-on experience with Active Directory, virtual machine configurations, and certifications like the Google Cybersecurity Professional Certificate and CompTIA Security+ have prepared me for success. I am seeking a Security Operations Center (SOC) Analyst Level 1 role or a position in IT where I can apply my skills to enhance digital security. 
 
 
-<h2> INFORMATION TECHNOLOGY PROJECTS:</h2>
+<h2> IT Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MiguelCamarenaAlfaro/configure-AD)
