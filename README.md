@@ -3,6 +3,8 @@
 
 <a href="https://linkedin.com/in/miguelcamarena27"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## INTRODUCTION
+
 I am currently a cybersecurity student at Waldorf University, on track to graduate in 2025 with a Bachelor's Degree in Cybersecurity and Information Technology. Over the past few years, I’ve gained hands-on experience in IT and cybersecurity through both academic projects and professional roles. Notably, I implemented an Active Directory environment in Microsoft Azure, configuring virtual machines, automating account provisioning with PowerShell scripts, and optimizing DNS configurations to ensure seamless communication across systems.
 
 Professionally, I’ve worked as an IT Support Technician at Log(N) Pacific, where I built and maintained secure infrastructures, and as a Help Desk Analyst at Verizon Wireless, where I honed my troubleshooting skills and provided advanced support for complex IT systems. My certifications, including the Google Cybersecurity Professional Certificate and CompTIA Security+, further reflect my commitment to excellence in this field.
