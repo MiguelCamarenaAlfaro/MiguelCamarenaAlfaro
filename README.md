@@ -4,6 +4,10 @@
 ## MY LINKEDIN
 <a href="https://linkedin.com/in/miguelcamarena27"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+##DOWNLOAD MY RESUME
+[Download My Resume](https://github.com/yourusername/my-resume/raw/main/resume.pdf)
+
+
 ## INTRODUCTION
 
 I am currently a cybersecurity student at Waldorf University, on track to graduate in 2025 with a Bachelor's Degree in Cybersecurity and Information Technology. Over the past few years, I’ve gained hands-on experience in IT and cybersecurity through both academic projects and professional roles. Notably, I implemented an Active Directory environment in Microsoft Azure, configuring virtual machines, automating account provisioning with PowerShell scripts, and optimizing DNS configurations to ensure seamless communication across systems.
