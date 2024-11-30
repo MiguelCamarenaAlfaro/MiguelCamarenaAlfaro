@@ -1,7 +1,8 @@
 
 # Hello, I'm Miguel, an IT and Cybersecurity Professional
 
-<a MY LINKEDIN: href="https://linkedin.com/in/miguelcamarena27"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## MY LINKEDIN
+<a href="https://linkedin.com/in/miguelcamarena27"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## INTRODUCTION
 
