@@ -11,7 +11,7 @@ I thrive on solving challenges, continuously learning, and applying my skills to
 
 ## OBJECTIVE
 
-My journey and education in customer care, information technology, and cybersecurity has instilled in me a passion to transition into a role in the cybersecurity lanscape. I am primarily seeking a role as a Security Operations Center Analyst Level 1 or in the field of information technology 
+With a strong foundation in customer care, IT, and cybersecurity, I am passionate about transitioning into a role in the cybersecurity field. My hands-on experience with Active Directory, virtual machine configurations, and certifications like the Google Cybersecurity Professional Certificate and CompTIA Security+ have prepared me for success. I am seeking a Security Operations Center (SOC) Analyst Level 1 role or a position in IT where I can apply my skills to enhance digital security. 
 
 
 <h2> INFORMATION TECHNOLOGY PROJECTS:</h2>
