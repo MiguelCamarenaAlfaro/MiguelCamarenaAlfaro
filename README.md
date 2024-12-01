@@ -1,5 +1,5 @@
 
-# Hello, I'm Miguel, an IT and Cybersecurity Professional
+<h1>Hi, I'm Miguel, an <a href="https://linkedin.com/in/miguelcamarena27">IT Professional</a> </h1>
 
 ## MY LINKEDIN
 <a href="https://linkedin.com/in/miguelcamarena27"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -23,10 +23,13 @@ With a strong foundation in customer care, IT, and cybersecurity, I am passionat
 
 <h2> IT PROJECTS:</h2>
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](Under Construction)
+  - [osTicket: Post-Installation Configuration](Under Construction)
+  - [osTicket: Ticket Lifecycle Examples](Under Construction)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MiguelCamarenaAlfaro/configure-AD)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols] (Under Construction)
-
+  - [Configuring Active Directory within Azure VMs](https://github.com/MiguelCamarenaAlfaro/configure-AD)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](Under Construction)
 
 ## Certifications
 <img src="https://i.imgur.com/jceht7k.png"/>
