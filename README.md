@@ -24,7 +24,7 @@ With a strong foundation in customer care, IT, and cybersecurity, I am passionat
 <h2> IT PROJECTS:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](Under Construction)
+  - [osTicket: Prerequisites and Installation](https://github.com/MiguelCamarenaAlfaro/osTicket-Prerequisites-and-installation) (Under Construction)
   - [osTicket: Post-Installation Configuration](Under Construction)
   - [osTicket: Ticket Lifecycle Examples](Under Construction)
 - <b>Microsoft Azure</b>
